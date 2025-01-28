@@ -95,7 +95,7 @@ echo google.com | haktrails subdomains | httpx | node jsRawler.js
 ```
 
 ### Breakdown:
-1. **`haktrails subdomains`**: Extract subdomains of `google.com`.
+1. **`jsRawler subdomains`**: Extract subdomains of `google.com`.
 2. **`httpx`**: Filter subdomains that respond to HTTP(S).
 3. **`jsRawler.js`**: Crawl those subdomains for links, scripts, and forms.
 
