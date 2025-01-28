@@ -33,7 +33,7 @@ Dependency:
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/jsRawler.git
+   git clone https://github.com/securi3ytalent/jsRawler
    cd jsRawler
    ```
 2. Install dependencies:
